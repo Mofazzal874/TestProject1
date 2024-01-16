@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <style name="Base.Theme.TestProject1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/Purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        secondary brand color
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_500</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/primary</item>
+
+    </style>
+    <style name="Theme.TestProject1" parent="Base.Theme.TestProject1"/>
+</resources>

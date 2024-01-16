@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="320dp"
+    android:layout_height="250dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="8dp"
+    android:layout_margin="12sp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@color/card1">
+        <TextView
+            android:id="@+id/wishlist_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="McDonald's"
+            android:textSize="25sp"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/baloo_bhai"
+            android:textColor="@color/black"/>
+
+        <ImageView
+            android:id="@+id/wishlist_image"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="150dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/icon__hamburger"/>
+
+        <TextView
+            android:id="@+id/userName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/wishlist_title"
+            android:layout_alignStart="@+id/wishlist_title"
+            android:layout_alignEnd="@+id/wishlist_title"
+            android:layout_marginStart="1dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="39dp"
+            android:layout_marginRight="169dp"
+            android:layout_toLeftOf="@+id/wishlist_image"
+            android:padding="10dp"
+            android:text="Username: "
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:id="@+id/userNameValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignStart="@+id/userName"
+            android:layout_alignTop="@+id/userName"
+            android:layout_alignEnd="@+id/userName"
+            android:layout_marginStart="109dp"
+            android:layout_marginTop="-1dp"
+            android:layout_marginEnd="-80dp"
+            android:layout_marginRight="94dp"
+            android:layout_marginBottom="1dp"
+            android:layout_toLeftOf="@+id/wishlist_image"
+            android:padding="10dp"
+            android:text="user "
+            android:textColor="@color/black"
+            android:textSize="15sp"
+
+            />
+
+        <TextView
+            android:id="@+id/phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/userName"
+            android:layout_alignTop="@+id/userName"
+            android:layout_alignEnd="@+id/userName"
+            android:layout_alignBottom="@+id/userName"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="53dp"
+            android:layout_marginEnd="29dp"
+            android:layout_marginBottom="-32dp"
+            android:text="Phone: "
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/phoneValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/phone"
+            android:layout_alignTop="@+id/phone"
+            android:layout_alignEnd="@+id/phone"
+            android:layout_alignBottom="@+id/phone"
+            android:layout_marginStart="71dp"
+            android:layout_marginTop="-3dp"
+            android:layout_marginEnd="-99dp"
+            android:layout_marginBottom="-15dp"
+            android:text="phoneValue"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/bloodGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/phone"
+            android:layout_alignTop="@+id/phone"
+            android:layout_alignEnd="@+id/phone"
+            android:layout_alignBottom="@+id/phone"
+            android:layout_marginStart="-9dp"
+            android:layout_marginTop="46dp"
+            android:layout_marginEnd="-31dp"
+            android:layout_marginBottom="-46dp"
+            android:text="Blood Group: "
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/bloodGroupValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/bloodGroup"
+            android:layout_alignTop="@+id/bloodGroup"
+            android:layout_alignEnd="@+id/bloodGroup"
+            android:layout_alignBottom="@+id/bloodGroup"
+            android:layout_marginStart="101dp"
+            android:layout_marginTop="-8dp"
+            android:layout_marginEnd="-64dp"
+            android:layout_marginBottom="-11dp"
+            android:text="bgValue"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/bloodGroup"
+            android:layout_alignTop="@+id/bloodGroup"
+            android:layout_alignEnd="@+id/bloodGroup"
+            android:layout_alignBottom="@+id/bloodGroup"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="37dp"
+            android:layout_marginEnd="18dp"
+            android:layout_marginBottom="-39dp"
+            android:text="Address: "
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+
+        <TextView
+            android:id="@+id/addressValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/address"
+            android:layout_alignEnd="@+id/address"
+            android:layout_alignBottom="@+id/address"
+            android:layout_marginStart="80dp"
+            android:layout_marginTop="-159dp"
+            android:layout_marginEnd="-88dp"
+            android:layout_marginBottom="-12dp"
+            android:text="add. value"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

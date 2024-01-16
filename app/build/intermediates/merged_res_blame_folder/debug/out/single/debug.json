@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_fragment_team_tracker.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\fragment_team_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xxxhdpi_circles.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xxxhdpi\\circles.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_phone_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xhdpi_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xhdpi_circles.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xhdpi\\circles.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_14.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_4.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xhdpi_wallet.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xhdpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_add_place_edit_text_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\add_place_edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\anim_bottom_down.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_icon__member_card.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\icon__member_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_wishlist_design.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\wishlist_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_github_logo.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\github_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_activity_hotel_list.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_hotel_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_15.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_groups_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_groups_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_bottom_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\bottom_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_search_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\search_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_place_top_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\place_top_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable___icon__at_email_icon.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\__icon__at_email_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_5.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_sign_up_button_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\sign_up_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_favorite_border_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_arrow_circle_right_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_arrow_circle_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_circular_imageview.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\circular_imageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_activity_tour_guide_profile.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_tour_guide_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-ldpi_notification.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-ldpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-mdpi_wallet.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-mdpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_key_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_key_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-mdpi_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable___icon__website_with_image_website.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\__icon__website_with_image_website.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_place_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_place_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_icon__tour_guide.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\icon__tour_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_add_location_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_add_location_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_emoji__mountain.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\emoji__mountain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xxxhdpi_settings.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xxxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_more_grey_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\more_grey_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-mdpi_notification.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-mdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_12.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_top_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\top_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable___icon__image_.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\__icon__image_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-hdpi_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xxhdpi_settings.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_most_visited_design.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\most_visited_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_details_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_details_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-hdpi_circles.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-hdpi\\circles.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_icon__arrow_back_circle_sharp.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\icon__arrow_back_circle_sharp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xhdpi_notification.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-ldpi_wallet.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-ldpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\anim_top_up.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\anim\\top_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_more_top_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\more_top_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_7.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable___icon__building_community_division.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\__icon__building_community_division.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable___icon__phone_call_phone.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\__icon__phone_call_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_add_place_upload_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\add_place_upload_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_my_location_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_my_location_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_meta_logo.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\meta_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_date_range_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_date_range_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_8.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_facebook_logo.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\facebook_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_icon__wishlist.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\icon__wishlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xxhdpi_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable___icon__globe_with_asia_shown_.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\__icon__globe_with_asia_shown_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_activity_add_place.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_add_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xxhdpi_circles.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xxhdpi\\circles.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_1.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_icon__chevron_circle_left.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\icon__chevron_circle_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xxhdpi_notification.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_10.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_notifications_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_notifications_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-ldpi_settings.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-ldpi\\settings.png"
+    },
+    {
+        "merged": "com.example.testproject1.app-merged_res-43:/layout_activity_signup.xml.flat",
+        "source": "com.example.testproject1.app-main-45:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_item_team_member.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\item_team_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_9.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_2.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_stars_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_stars_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_more_white_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\more_white_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_nature.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\nature.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_activity_add_tour_guide.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_add_tour_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-mdpi_circles.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-mdpi\\circles.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_activity_detailed.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_detailed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_google_logo.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\google_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xxxhdpi_notification.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xxxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_featured_design.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\featured_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\font_alfa_slab_one.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\font\\alfa_slab_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_11.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_fragment_social.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\fragment_social.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-ldpi_circles.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-ldpi\\circles.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_tour_guide_design.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\tour_guide_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_6.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xxhdpi_wallet.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xxhdpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xxxhdpi_wallet.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xxxhdpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_baseline_bloodtype_24.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\baseline_bloodtype_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-ldpi_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-ldpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\font_baloo_bhai.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\font\\baloo_bhai.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_fragment_more.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_border_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\border_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable___icon__address_card_.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\__icon__address_card_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable___icon__compass_rose_.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\__icon__compass_rose_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\layout_activity_tour_guide_list.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_tour_guide_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_more_circle_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\more_circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_emoji__hotel.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\emoji__hotel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-hdpi_notification.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable___icon__alternate_map_marked_address.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\__icon__alternate_map_marked_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_13.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_icon__hamburger.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\icon__hamburger.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_globe_network_icon.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\globe_network_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable___icon__options_2_outline_options.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\__icon__options_2_outline_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-xxxhdpi_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-xxxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_img_3.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\img_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable_card1.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable\\card1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\drawable-hdpi_wallet.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\drawable-hdpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-merged_res-43:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\anim\\fade_in.xml"
+    }
+]

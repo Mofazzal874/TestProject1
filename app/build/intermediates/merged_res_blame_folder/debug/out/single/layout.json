@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\activity_add_place.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_add_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\activity_tour_guide_list.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_tour_guide_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\activity_hotel_list.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_hotel_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\activity_edit_profile.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\activity_map.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\activity_add_tour_guide.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_add_tour_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\activity_tour_guide_profile.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_tour_guide_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\featured_design.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\featured_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\tour_guide_design.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\tour_guide_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\fragment_more.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\item_team_member.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\item_team_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\wishlist_design.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\wishlist_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\most_visited_design.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\most_visited_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\activity_detailed.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_detailed.xml"
+    },
+    {
+        "merged": "com.example.testproject1.app-mergeDebugResources-42:/layout/activity_signup.xml",
+        "source": "com.example.testproject1.app-main-45:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\fragment_team_tracker.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\fragment_team_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\fragment_social.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\fragment_social.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.0\\com.example.testproject1.app-main-45:\\layout\\activity_main.xml"
+    }
+]
