@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="150dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="8dp"
+    android:layout_margin="12sp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@color/card1">
+        <TextView
+            android:id="@+id/wishlist_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="McDonald's"
+            android:textSize="25sp"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/baloo_bhai"
+            android:textColor="@color/black"/>
+        <ImageView
+            android:id="@+id/wishlist_image"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/icon__hamburger"
+            android:scaleType="centerCrop"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"/>
+        <TextView
+            android:id="@+id/wishlist_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="kfjsalkfjsklfjs fdjslafj as sflsfj sfflksj sf"
+            android:layout_below="@+id/wishlist_title"
+            android:layout_toLeftOf="@+id/wishlist_image"
+            android:padding="10dp" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

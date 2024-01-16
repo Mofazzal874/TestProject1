@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddPlace">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#C1C1C1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="310dp"
+                android:orientation="vertical">
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/add_place_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="240dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/img_1"
+                    app:shapeAppearanceOverlay="@style/roundImageView"
+                    />
+                    <TextView
+                        android:id="@+id/add_place_upload_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Upload Place's Image"
+                        android:layout_marginTop="10dp"
+                        android:layout_gravity="center_horizontal"
+                        android:textSize="25sp"
+                        android:textStyle="bold"
+                        android:padding="10dp"
+                        android:textColor="@color/black"
+                        android:background="@drawable/add_place_upload_background"
+                        />
+
+            </LinearLayout>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp">
+<!--            add details text-->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Add Details"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:padding="10dp"
+                    android:textColor="@color/black"
+                    />
+            </LinearLayout>
+<!--            details card view-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="10dp">
+
+
+
+                    <EditText
+                        android:id="@+id/add_place_name"
+                        android:layout_width="match_parent"
+                        android:inputType="textPersonName"
+                        android:layout_height="48dp"
+                        android:layout_margin="5dp"
+                        android:background="@drawable/add_place_edit_text_background"
+                        android:drawableStart="@drawable/__icon__globe_with_asia_shown_"
+                        android:drawablePadding="10dp"
+                        android:drawableTint="@color/black"
+                        android:hint="Place Name"
+                        android:paddingStart="10dp" />
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="10dp">
+
+                    <EditText
+                        android:id="@+id/add_place_description"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:minHeight="48dp"
+                        android:layout_margin="5dp"
+                        android:background="@drawable/add_place_edit_text_background"
+                        android:drawableStart="@drawable/baseline_details_24"
+                        android:drawablePadding="10dp"
+                        android:drawableTint="@color/black"
+                        android:hint="Add some Description"
+                        android:paddingStart="10dp"
+                        android:gravity="top|start"
+                        android:inputType="textMultiLine"
+                        android:scrollHorizontally="false"
+                        android:layout_gravity="top|start"
+                    />
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="10dp">
+
+
+
+                    <EditText
+                        android:id="@+id/add_place_location"
+                        android:layout_width="match_parent"
+                        android:inputType="text"
+                        android:layout_height="48dp"
+                        android:layout_margin="5dp"
+                        android:background="@drawable/add_place_edit_text_background"
+                        android:drawableStart="@drawable/baseline_place_24"
+                        android:drawablePadding="10dp"
+                        android:drawableTint="@color/black"
+                        android:hint="Add location from google map"
+                        android:paddingStart="10dp" />
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="10dp">
+
+
+
+                    <EditText
+                        android:id="@+id/add_place_address"
+                        android:layout_width="match_parent"
+                        android:inputType="text"
+                        android:layout_height="48dp"
+                        android:layout_margin="5dp"
+                        android:background="@drawable/add_place_edit_text_background"
+                        android:drawableStart="@drawable/__icon__alternate_map_marked_address"
+                        android:drawablePadding="10dp"
+                        android:drawableTint="@color/black"
+                        android:hint="Add Address"
+                        android:paddingStart="10dp" />
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="10dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal"
+                        android:background="@drawable/add_place_edit_text_background">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Add Division:"
+                            android:textSize="20sp"
+                            android:textStyle="bold"
+                            android:padding="10dp"
+                            android:textColor="@color/black"/>
+                        <Spinner
+                            android:id="@+id/add_place_division"
+                            android:layout_width="match_parent"
+                            android:layout_height="48dp"
+                            android:layout_margin="5dp"
+                            android:background="@drawable/add_place_edit_text_background"
+                            android:spinnerMode="dialog"
+                            android:layout_gravity="center_vertical"
+                            android:layoutDirection="ltr"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginEnd="10dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:drawablePadding="10dp"
+                            android:drawableTint="@color/black"
+                            android:paddingStart="10dp"
+                            />
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="10dp">
+
+
+
+                    <EditText
+                        android:id="@+id/add_place_email"
+                        android:layout_width="match_parent"
+                        android:inputType="textEmailAddress"
+                        android:layout_height="48dp"
+                        android:layout_margin="5dp"
+                        android:background="@drawable/add_place_edit_text_background"
+                        android:drawableStart="@drawable/__icon__at_email_icon"
+                        android:drawablePadding="10dp"
+                        android:drawableTint="@color/black"
+                        android:hint="Add Email(If any)"
+                        android:paddingStart="10dp" />
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="10dp">
+
+
+
+                    <EditText
+                        android:id="@+id/add_place_phone"
+                        android:layout_width="match_parent"
+                        android:inputType="phone"
+                        android:layout_height="48dp"
+                        android:layout_margin="5dp"
+                        android:background="@drawable/add_place_edit_text_background"
+                        android:drawableStart="@drawable/__icon__phone_call_phone"
+                        android:drawablePadding="10dp"
+                        android:drawableTint="@color/black"
+                        android:hint="Add Phone(If any)"
+                        android:paddingStart="10dp" />
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="10dp">
+
+
+
+                    <EditText
+                        android:id="@+id/add_place_website"
+                        android:layout_width="match_parent"
+                        android:inputType="text"
+                        android:layout_height="48dp"
+                        android:layout_margin="5dp"
+                        android:background="@drawable/add_place_edit_text_background"
+                        android:drawableStart="@drawable/__icon__website_with_image_website"
+                        android:drawablePadding="10dp"
+                        android:drawableTint="@color/black"
+                        android:hint="Add Website(If any)"
+                        android:paddingStart="10dp" />
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="10dp">
+
+
+
+<!--                    <EditText-->
+<!--                        android:id="@+id/add_place_address"-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:inputType="textPersonName"-->
+<!--                        android:layout_height="48dp"-->
+<!--                        android:layout_margin="5dp"-->
+<!--                        android:background="@drawable/add_place_edit_text_background"-->
+<!--                        android:drawableStart="@drawable/__icon__options_2_outline_options"-->
+<!--                        android:drawablePadding="10dp"-->
+<!--                        android:drawableTint="@color/black"-->
+<!--                        android:hint="Place Type(tourist spot,Hotel,Restaurant)"-->
+<!--                        android:paddingStart="10dp" ></EditText>-->
+                    <Spinner
+                        android:id="@+id/place_type_spinner"
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:layout_margin="5dp"
+                        android:background="@drawable/add_place_edit_text_background"
+                        android:spinnerMode="dialog"
+                        android:layout_gravity="center_vertical"
+                        android:layoutDirection="ltr"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:drawableStart="@drawable/__icon__options_2_outline_options"
+                        android:drawablePadding="10dp"
+                        android:drawableTint="@color/black"
+                        android:hint="Place Type(tourist spot,Hotel,Restaurant)"
+                        android:paddingStart="10dp"
+                        />
+                </androidx.cardview.widget.CardView>
+                <Button
+                    android:id="@+id/add_place_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="25dp"
+                    android:layout_marginBottom="40dp"
+                    android:padding="10dp"
+                    android:text="Add Place"
+                    android:textColor="@color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:background="@drawable/sign_up_button_background"/>
+            </LinearLayout>
+
+         </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

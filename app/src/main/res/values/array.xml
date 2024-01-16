@@ -1,0 +1,13 @@
+<!-- res/values/arrays.xml -->
+<resources>
+    <string-array name="divisions_array">
+        <item>Dhaka</item>
+        <item>Chattogram</item>
+        <item>Rajshahi</item>
+        <item>Khulna</item>
+        <item>Barisal</item>
+        <item>Sylhet</item>
+        <item>Rangpur</item>
+        <item>Mymensingh</item>
+    </string-array>
+</resources>
